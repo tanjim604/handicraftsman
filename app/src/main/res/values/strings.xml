@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome"> Welcome</string>
+    <string name="firstButton"> Login as Customer</string>
+    <string name="secondButton">Login as Contractor</string>
+    <string name="thirdButton">Sign  UP</string>
+    <string name="cutomer">Customer Login</string>
+    <string name="editeText1Hint"> Email address </string>
+    <string name="editText2Hint">Enter Password </string>
+    <string name="signin">Sign in</string>
+    <string name="googleSign"> Sign in with Google</string>
+    <string name="fullname">Enter full name</string>
+    <string name="email">Enter email adddress</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="haveaccount">Already have an account? Sign in</string>
+    <string name="forgotpass">Forgot your password? Click here</string>
+    <string name="contractor">Contractor Login</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:background="#F4E1E1">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:padding="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text= "@string/welcome"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-black"/>
+
+    <Button
+
+        android:id="@+id/button1"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#45d4d6"
+        android:text="@string/firstButton"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_margin="10dp"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#45d4d6"
+        android:text="@string/secondButton"
+        android:textStyle="bold"
+        android:layout_margin="10dp"
+        android:textColor="@color/black"/>
+
+
+    <Button
+        android:id="@+id/button3"
+        android:textStyle="bold"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:backgroundTint="#45d4d6"
+        android:text="@string/thirdButton"
+        android:textColor="@color/black" />
+
+
+
+</LinearLayout>
