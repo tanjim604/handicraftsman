@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105670530006",
+    "project_id": "handicraftsman-2024",
+    "storage_bucket": "handicraftsman-2024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105670530006:android:f6f83c3794c329ac80ca77",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHeNwn99rjOjc0CDhs1goYjU-v-dnsSK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
